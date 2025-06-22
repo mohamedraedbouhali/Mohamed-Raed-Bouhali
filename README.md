@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi! Welcome to my Github landing Page !</h1>
-<h3 align="center">👯 I’m Mohamed Raed , a Computer Science Student at TEK-UP University</h3>
+<h3 align="center"> I’m Mohamed Raed , a Computer Science Student at TEK-UP University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
